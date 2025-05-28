@@ -19,21 +19,4 @@ MongoDB Atlas (or local MongoDB) for cloud-based NoSQL storage
 
 Mongoose (optional) for schema modeling and data validation
 
-kristball-project/
-├── src/
-│   ├── components/
-│   │   ├── assets/         # Asset listing and cards
-│   │   ├── dashboard/      # Dashboard UI
-│   │   ├── layout/         # Header, sidebar, layout
-│   │   └── ui/             # Buttons, badges, cards
-│   ├── data/
-│   │   └── mockData.ts     # Temporary mock data
-│   ├── index.css           # Tailwind base styles
-│   └── main.tsx            # App entry point
-├── backend/                # (Planned) Express server
-│   ├── routes/
-│   ├── controllers/
-│   └── server.js
-├── public/
-├── package.json
-└── vite.config.ts
+
